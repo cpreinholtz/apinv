@@ -1,54 +1,20 @@
 
-```markdown
-[--See Listings--](https://my.flexmls.com/AdamAhmed/search/idx_links/20190821192347007039000000/listings?sort_id=price_low_to_high)
-```
-
-
-### 760.699.7979 // FAX 760.565.5515
-
-### EMAIL   Adam@APINV.Com
-
-### PO BOX 8181, LA VERNE, CA 91750
-
-
-### AMERICAN PACIFIC INVESTMENTS // BRE# 01413750
+[--See Listings--](https://my.flexmls.com/AdamAhmed/search/idx_links/20190821192347007039000000/listings?sort_id=price_low_to_high)|
+------------ |
 
 
 
-## Welcome to GitHub Pages
+760.699.7979 // FAX 760.565.5515
 
-You can use the [editor on GitHub](https://github.com/cpreinholtz/apinv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EMAIL   Adam@APINV.Com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PO BOX 8181, LA VERNE, CA 91750
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+*AMERICAN PACIFIC INVESTMENTS // BRE# 01413750*
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cpreinholtz/apinv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
